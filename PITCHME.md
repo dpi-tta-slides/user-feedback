@@ -122,7 +122,7 @@ Talk to as many users as you can
 - contact link in footer to send an email
 
 ```
-<a href="mailto:info@popping.live>Contact Us</a>
+<a href="mailto:ian@dpi.dev>Contact Us</a>
 ```
 
 - You can even add a `body` and `subject` as query string params
