@@ -35,6 +35,14 @@ _paginate: false
 > 
 > —Steve Jobs
 
+
+<!--
+this does NOT mean don't talk to users
+
+DON'T BE FAKE STEVE JOBS
+
+Talk to as many users as you can
+-->
 ---
 
 - Listen to what users say, but more importantly, **focus on what they do**.
