@@ -121,17 +121,36 @@ Talk to as many users as you can
 
 - contact link in footer to send an email
 
-```
-<a href="mailto:ian@dpi.dev>Contact Us</a>
+```html
+<a href="mailto:ian@dpi.dev>Email Me</a>
 ```
 
 - You can even add a `body` and `subject` as query string params
+- This works for SMS too
+
+```html
+<a href="sms:+15555555555>Text Me</a>
+```
+
 ---
+
 # Send user registration email follow up
 - Make sure you have a way to contact users
-  - confirmed email
-  - phone
-- Welcome your new users!
+  - confirm email and/or phone number
+- Welcome your new users when they sign up
+
+```ruby
+class User < ApplicationRecord
+  after_create :send_welcome_email
+
+  private
+
+  def send_welcome_email
+    UserMailer.welcome_email(self).deliver_now
+  end
+end
+```
+
 ---
 
 ![bg contain](./assets/smart-bear-welcome.png)
