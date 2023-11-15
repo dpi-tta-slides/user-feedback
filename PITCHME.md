@@ -122,14 +122,14 @@ Talk to as many users as you can
 - contact link in footer to send an email
 
 ```html
-<a href="mailto:ian@dpi.dev>Email Me</a>
+<a href="mailto:ian@dpi.dev">Email Me</a>
 ```
 
 - You can even add a `body` and `subject` as query string params
 - This works for SMS too
 
 ```html
-<a href="sms:+15555555555>Text Me</a>
+<a href="sms:+15555555555">Text Me</a>
 ```
 
 ---
