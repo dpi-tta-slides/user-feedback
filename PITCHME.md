@@ -153,6 +153,10 @@ You are working on a solution to optimize home workout routines. Work together i
 - Use your own product to experience it as your users do
 - If it's good enough for you, it's probably also good enough for your users
 
+<!-- Brian Chesky lived at airbnbs for years -->
+<!-- Founders of uber / doordash still work as drivers -->
+<!-- Apple uses iMessage internally for company chat -->
+
 ---
 # Add a way for users to contact you!
 
@@ -210,7 +214,7 @@ Don’t Ask Anyone Whether Your App Is A Good Idea!
 
 # Resources
 
-[Mom Test Summary](https://nucks.co/notes/the-mom-test-rob-fitzpatrick)
-[How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg)
-[Eric Migicovsky - How to Talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc)
+- [Mom Test Summary](https://nucks.co/notes/the-mom-test-rob-fitzpatrick)
+- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg)
+- [Eric Migicovsky - How to Talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc)
 
