@@ -117,6 +117,43 @@ Talk to as many users as you can
 > "don't think up ideas, notice ideas"
 
 ---
+# Scenario 1
+
+You are working on a solution for improving the work commute. Work together in groups to come up with questions you can ask commuters.
+
+- **User Profile**: People who travel to get to work
+- **Pain Point**: Many commuters find their commute stressful, crowded, and unpredictable
+
+<!-- The objective is to explore potential improvements to the commuting experience without presuming a specific solution. Encourage students to think about how they can get detailed, actionable insights that go beyond surface-level compliments, complaints or desires. -->
+
+---
+# Scenario 2
+
+You are working on a solution to enhance the grocery shopping experience. Work together in groups to come up with questions you can ask grocery shoppers.
+
+- **User Profile**: Individuals responsible for grocery shopping in their household.
+- **Pain Point**: Shoppers often find grocery shopping to be time-consuming, challenging to stay within budget, and difficult to find everything they need due to stock issues or store layout complexities.
+
+---
+
+# Scenario 3
+
+You are working on a solution to optimize home workout routines. Work together in groups to come up with questions you can ask people who workout at home.
+
+- **User Profile**: Individuals looking to maintain or improve their fitness at home, ranging from beginners to those with intermediate experience.
+- **Pain Point**: Many find it challenging to stay motivated, create a consistent workout routine, or know the right exercises to meet their fitness goals while at home. Others may struggle with limited space or lack of equipment.
+
+---
+
+# Eat Your Own Dog Food
+
+![bg right](./assets/man-eat-dog-food.jpeg)
+
+- "dog fooding"
+- Use your own product to experience it as your users do
+- If it's good enough for you, it's probably also good enough for your users
+
+---
 # Add a way for users to contact you!
 
 - contact link in footer to send an email
