@@ -14,7 +14,6 @@ _paginate: false
 
 ---
 
-
 - Best developers maintain a direct connection to users.
 - Conversely, it is often a bad sign if developers do not encounter *any* user feedback
 
@@ -22,6 +21,21 @@ _paginate: false
 - wufoo/37signals have developers take customer support calls once a week/month
  -->
 ---
+
+# The mistake you will make
+
+> You will make up some idea in your head that you will call your vision. And then you will spend a lot of time thinking about your vision in a cafe by yourself and build some elaborate thing without going and talking to users because that’s doing sales, which is as pain and they might say no… You will not ship fast enough because you’re embarrassed to ship something unfinished and you don’t want to face the likely feedback you will get, so you will shrink from contact with your users.
+>
+> When in reality, you’d be better off finding someone with a problem they will pay you to fix and then seeing if you can find more people like that.
+>
+> The best case scenario is that it’s a problem you yourself have.
+> 
+> - Paul Graham
+
+[source](https://x.com/StartupArchive_/status/1779842017818038308)
+
+---
+
 # Product development lifecycle
 
 1. Idea 💡
