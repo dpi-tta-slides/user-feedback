@@ -12,6 +12,18 @@ _paginate: false
 >
 > -Henry Ford
 
+> > "A lot of times, people don’t know what they want until you show it to them."
+> 
+> —Steve Jobs
+
+<!--
+this does NOT mean don't talk to users
+
+DON'T BE FAKE STEVE JOBS
+
+Talk to as many users as you can
+-->
+
 ---
 
 - Best developers maintain a direct connection to users.
@@ -43,20 +55,6 @@ _paginate: false
 3. Talk to users to see if it serves their needs 🗣️
 4. Repeat 🔁
 
----
-
-> "A lot of times, people don’t know what they want until you show it to them."
-> 
-> —Steve Jobs
-
-
-<!--
-this does NOT mean don't talk to users
-
-DON'T BE FAKE STEVE JOBS
-
-Talk to as many users as you can
--->
 ---
 
 - Listen to what users say, but more importantly, **focus on what they do**.
