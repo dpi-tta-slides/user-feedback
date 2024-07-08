@@ -12,7 +12,7 @@ _paginate: false
 >
 > -Henry Ford
 
-> > "A lot of times, people don’t know what they want until you show it to them."
+> "A lot of times, people don’t know what they want until you show it to them."
 > 
 > —Steve Jobs
 
