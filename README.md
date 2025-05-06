@@ -1,7 +1,7 @@
 # User Feedback
 This lesson goes over some techniques to talk to users effectively.
 
-[slides](https://dpi-we.github.io/slides-user-feedback)
+[slides](https://dpi-tta-slides.github.io/slides-user-feedback)
 
 ## Highlights
 - Engaging with Users
