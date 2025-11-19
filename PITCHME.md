@@ -36,7 +36,7 @@ Talk to as many users as you can
 
 # The mistake you will make
 
-> You will make up some idea in your head that you will call your vision. And then you will spend a lot of time thinking about your vision in a cafe by yourself and build some elaborate thing without going and talking to users because that’s doing sales, which is as pain and they might say no… You will not ship fast enough because you’re embarrassed to ship something unfinished and you don’t want to face the likely feedback you will get, so you will shrink from contact with your users.
+> You will make up some idea in your head that you will call your vision. And then you will spend a lot of time thinking about your vision in a cafe by yourself and build some elaborate thing without going and talking to users because that’s doing sales, which is a pain and they might say no... You will not ship fast enough because you’re embarrassed to ship something unfinished and you don’t want to face the likely feedback you will get, so you will shrink from contact with your users.
 >
 > When in reality, you’d be better off finding someone with a problem they will pay you to fix and then seeing if you can find more people like that.
 >
