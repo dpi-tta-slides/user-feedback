@@ -12,7 +12,7 @@ _paginate: false
 >
 > -Henry Ford
 
-> "A lot of times, people don’t know what they want until you show it to them."
+> "A lot of times, people don't know what they want until you show it to them."
 > 
 > —Steve Jobs
 
@@ -36,11 +36,11 @@ Talk to as many users as you can
 
 # The mistake you will make
 
-> You will make up some idea in your head that you will call your vision. And then you will spend a lot of time thinking about your vision in a cafe by yourself and build some elaborate thing without going and talking to users because that’s doing sales, which is a pain and they might say no... You will not ship fast enough because you’re embarrassed to ship something unfinished and you don’t want to face the likely feedback you will get, so you will shrink from contact with your users.
+> You will make up some idea in your head that you will call your vision. And then you will spend a lot of time thinking about your vision in a cafe by yourself and build some elaborate thing without going and talking to users because that's doing sales, which is a pain and they might say no... You will not ship fast enough because you're embarrassed to ship something unfinished and you don't want to face the likely feedback you will get, so you will shrink from contact with your users.
 >
-> When in reality, you’d be better off finding someone with a problem they will pay you to fix and then seeing if you can find more people like that.
+> When in reality, you'd be better off finding someone with a problem they will pay you to fix and then seeing if you can find more people like that.
 >
-> The best case scenario is that it’s a problem you yourself have.
+> The best case scenario is that it's a problem you yourself have.
 > 
 > - Paul Graham
 
@@ -56,12 +56,30 @@ Talk to as many users as you can
 4. Repeat 🔁
 
 ---
+# Anti-Patterns
+
+> "I'll build it and then talk to users."
+- Falling in love with the solution, not the problem.
+- Talking to users only once, not repeatedly.
+- Only talking to friendly users who won't criticize.
+- Mistaking user enthusiasm for commitment.
+> "My target audience is everyone."
+
+---
 
 - Listen to what users say, but more importantly, **focus on what they do**.
 <!-- - Listen for user problems (You can usually ignore their proposed solutions) -->
 - If a user is "hacking" your product in a way you didn't expect, double down on that.
 
-<!-- users own the problem, you own the solution -->
+---
+# Users own the problem, **you** own the solution
+
+
+- Bad Question: "Should I add a calendar feature?"
+- Good Question: "How do you currently schedule this task?"
+
+Users are great at describing pain, not solutions.
+
 ---
 # The Mom Test
 ![bg right](./assets/mom-test.webp)
@@ -72,23 +90,22 @@ Talk to as many users as you can
 
 [source](https://www.momtestbook.com/)
 
-
 ---
 
 # A useful conversation
 
 - Talk about their life, not your idea.
 - Talk specifics, not hypotheticals.
-- Listen, don’t talk.
+- Listen, don't talk.
 
 
 ---
 
 # Guidelines
 
-- Ask about someone’s behavior, not hypotheticals.
-- People will lie to you. It’s your job to make sure they don’t by asking correct questions.
-- Questions you ask should terrify you. They could disprove what you’re researching.
+- Ask about someone's behavior, not hypotheticals.
+- People will lie to you. It's your job to make sure they don't by asking correct questions.
+- Questions you ask should terrify you. They could disprove what you're researching.
 
 ---
 
@@ -96,7 +113,7 @@ Talk to as many users as you can
 
 | Bad Question | Good Question |
 | --- | --- |
-| Do you think it’s a good idea? | Why do you bother? |
+| Do you think it's a good idea? | Why do you bother? |
 | Would you buy a product which did X? | What are the implications of that? Talk me through your workflow. |
 | How much would you pay for X?	| What else have you tried? |
 | What would your dream product do?	| How are you dealing with it now? |
@@ -105,16 +122,25 @@ Talk to as many users as you can
 
 ---
 
-# Five Great Interview Questions
+# Great Interview Questions
 - What is the hardest part about [doing this thing]?
 - When is the last time you encountered this problem?
 - Why was this hard?
 - What, if anything, have you done to solve this problem?
-- What don’t you love about the solution you already tried?
+- What don't you love about the solution you already tried?
+
+---
+# Great Interview Questions
+
+- Walk me through the last time this happened
+- Show me how you currently do this.
+- What’s the biggest workaround in your process?
+- If this problem disappeared tomorrow, what would your day look like?
 
 ---
 
 # Types of Bad Data
+
 - Compliments
 - Fluff (generics, hypotheticals, and the future)
 - Ideas
@@ -127,6 +153,48 @@ Talk to as many users as you can
 - They might not even know about your product!
 
 > "don't think up ideas, notice ideas"
+
+---
+# Who to Talk To
+<!-- User Segmentation -->
+
+- People who currently experience the problem
+- People who have recently tried to solve it
+- People with a strong motivation or budget related to it
+
+## Avoid
+
+- Random users
+- Friends who want to be polite
+- "People like me" unless you are the actual validated user segment
+
+---
+# Strong Signals
+
+- They've spent time or money trying solutions
+- They are actively searching for alternatives
+- They hack together workarounds
+- They commit to a next step (beta signup, pre-order, meeting)
+
+---
+
+# Weak Signals
+
+- "This sounds cool!"
+- "I'd totally use that."
+- "People would love this."
+
+---
+# Avoid Pitching (for now)
+
+- No demos (early on)
+- No talking about features
+- No explaining why your idea is great
+- No convincing them the problem matters
+
+## Rule of thumb
+
+- If you're talking more than 20–30% of the time, you're pitching, not learning.
 
 ---
 # Scenario 1
@@ -220,7 +288,7 @@ end
 
 # TLDR;
 
-Don’t Ask Anyone Whether Your App Is A Good Idea!
+Don't Ask Anyone Whether Your App Is A Good Idea!
 
 ---
 
