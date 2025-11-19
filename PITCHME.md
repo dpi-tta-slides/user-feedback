@@ -72,7 +72,7 @@ Talk to as many users as you can
 - If a user is "hacking" your product in a way you didn't expect, double down on that.
 
 ---
-# Users own the problem, **you** own the solution
+# Users own the *problem*, you own the *solution*
 
 
 - Bad Question: "Should I add a calendar feature?"
