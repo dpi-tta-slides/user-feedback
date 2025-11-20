@@ -67,6 +67,10 @@ Talk to as many users as you can
 
 ---
 
+![bg contain](assets/homer-simpsons.gif)
+
+---
+
 - Listen to what users say, but more importantly, **focus on what they do**.
 <!-- - Listen for user problems (You can usually ignore their proposed solutions) -->
 - If a user is "hacking" your product in a way you didn't expect, double down on that.
@@ -123,6 +127,7 @@ Users are great at describing pain, not solutions.
 ---
 
 # Great Interview Questions
+
 - What is the hardest part about [doing this thing]?
 - When is the last time you encountered this problem?
 - Why was this hard?
